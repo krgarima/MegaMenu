@@ -1,6 +1,6 @@
 # MegaMenu
 
-Link to the app -
+Link to the app - https://menu-v.netlify.app/
 
 ## How to run the app
 
@@ -66,3 +66,8 @@ The menu data is structured as an array of menu items. Each menu item represents
 
 - Each menu item corresponds to a navigation link in the menu bar.
 - Categories can be used to further organize content within menu items, and subcategories can be nested within categories.
+
+
+<img width="959" alt="home" src="https://github.com/krgarima/MegaMenu/assets/90110521/872ed250-7975-49b1-be7e-99966c946b48">
+<img width="770" alt="mob" src="https://github.com/krgarima/MegaMenu/assets/90110521/7927e3ce-b70d-4b4b-881b-63d61344dcc7">
+
