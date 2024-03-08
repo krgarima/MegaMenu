@@ -14,7 +14,7 @@ const Menubar = () => {
         onClick={() => setShowMenuContent(!showMenuContent)}
       >
         <span>Menu</span>
-        <span className="ml-2 border-r-2 border-b-2 border-gray-400 p-1 inline-block rotate-45 bottom-1 relative hover:rotate-[-135deg] hover:transition-all hover:duration-1000 hover:bottom-0 hover:border-white "></span>
+        <span className="ml-2 border-r-2 border-b-2 border-gray-400 p-1 inline-block rotate-45 bottom-1 relative hover:rotate-[-135deg] hover:transition-all hover:duration-800 hover:top-0 hover:border-white "></span>
       </div>
 
       {/* MENU ITEMS */}

@@ -82,6 +82,11 @@
             "id": 413,
             "name": "Comedy",
             "url": "/categories/genre/comedy"
+          },
+          {
+            "id": 414,
+            "name": "Documentary",
+            "url": "/categories/genre/documentary"
           }
         ]
       },
