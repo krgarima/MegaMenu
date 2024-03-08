@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Home",
+    "url": "/",
+    "categories": [
+      {
+        "id": 11,
+        "subcategories": [
+          {
+            "id": 111,
+            "url": "/all",
+            "name": "All"
+          },
+          {
+            "id": 112,
+            "url": "/movies",
+            "name": "Movies"
+          },
+          {
+            "id": 113,
+            "url": "/tvshows",
+            "name": "TV Shows"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Store",
+    "url": "/store",
+    "categories": [
+      {
+        "id": 21,
+        "subcategories": [
+          {
+            "id": 211,
+            "name": "All",
+            "url": "/store/all"
+          },
+          {
+            "id": 212,
+            "name": "Rent",
+            "url": "/store/rent"
+          },
+          {
+            "id": 213,
+            "name": "Channels",
+            "url": "/store/channels"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Live TV",
+    "url": "/livetv"
+  },
+  {
+    "id": 4,
+    "name": "Categories",
+    "url": "/categories",
+    "categories": [
+      {
+        "id": 41,
+        "name": "Genres",
+        "url": "/categories/genres",
+        "subcategories": [
+          {
+            "id": 411,
+            "name": "Action and adventure",
+            "url": "/categories/genre/action_adventure"
+          },
+          {
+            "id": 412,
+            "name": "Anime",
+            "url": "/categories/genre/anime"
+          },
+          {
+            "id": 413,
+            "name": "Comedy",
+            "url": "/categories/genre/comedy"
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "name": "Featured collections",
+        "url": "/featured",
+        "subcategories": [
+          {
+            "id": 421,
+            "name": "Hindi",
+            "url": "categories/featured/hindi"
+          },
+          {
+            "id": 422,
+            "name": "English",
+            "url": "categories/featured/english"
+          },
+          {
+            "id": 423,
+            "name": "Kannada",
+            "url": "categories/featured/kannada"
+          }
+        ]
+      }
+    ]
+  }
+]
